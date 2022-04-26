@@ -1,6 +1,6 @@
-## Outlook fetching automation
+# Outlook fetching automation
 
-### Installation
+## Installation
 1. You need to have Python installed. If you haven't, please [download Python](https://www.python.org/downloads/) and install on your machine.
 2. You need to have some packages installed. Please use the below commands to get them installed.
     ```
@@ -32,7 +32,7 @@
     ]
     ```
 
-### How it works
+## How it works
 Before running the application, you need to confirm how many threads you want to run at a time.
 
 Open `bulk-fetcher.py` and update the value for `TotalNumberOfThreads`
